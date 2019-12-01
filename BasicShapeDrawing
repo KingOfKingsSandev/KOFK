@@ -1,5 +1,0 @@
-For y as integer = 0 to 4
-  For x as integr = 0 to 4
-    MsgBox("HI")
-  Next x
-Next y
